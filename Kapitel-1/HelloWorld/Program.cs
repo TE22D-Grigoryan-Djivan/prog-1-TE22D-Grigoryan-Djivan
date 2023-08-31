@@ -24,4 +24,4 @@ string älskling = Console.ReadLine();
 Console.WriteLine("Hej! "+ namn +" du är " + adjektiv + " tycker " + älskling +". " + älskling +
 " har lagat din favorit maträtt " + mat + ", bon appetit!");
 
-Console.ReadLine();
+Console.ReadLine(); 
